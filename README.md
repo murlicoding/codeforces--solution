@@ -6,22 +6,30 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 3 |
+| 6 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (4)
+- [expression parsing](#expression-parsing) (1)
+- [implementation](#implementation) (5)
 - [math](#math) (2)
 - [strings](#strings) (2)
 
 ---
 
+### expression parsing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
