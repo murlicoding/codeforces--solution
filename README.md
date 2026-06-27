@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 4 |
+| 10 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [expression parsing](#expression-parsing) (1)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (2)
 - [strings](#strings) (3)
 
@@ -32,6 +32,7 @@
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
+| 448A | [Rewards](https://codeforces.com/contest/448/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/448/A%20-%20Rewards/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
