@@ -6,18 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 4 |
+| 12 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [constructive algorithms](#constructive-algorithms) (1)
 - [expression parsing](#expression-parsing) (1)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (2)
 - [strings](#strings) (3)
 
 ---
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 
 ### expression parsing
 
@@ -33,6 +40,7 @@
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 448A | [Rewards](https://codeforces.com/contest/448/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/448/A%20-%20Rewards/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
