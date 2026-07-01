@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 5 |
+| 14 | 7 |
 
 ---
 
@@ -14,8 +14,10 @@
 
 - [constructive algorithms](#constructive-algorithms) (1)
 - [expression parsing](#expression-parsing) (1)
-- [implementation](#implementation) (12)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (13)
 - [math](#math) (2)
+- [sortings](#sortings) (1)
 - [strings](#strings) (3)
 
 ---
@@ -32,6 +34,12 @@
 |---|---------|------------|----------|
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
@@ -40,6 +48,7 @@
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 448A | [Rewards](https://codeforces.com/contest/448/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/448/A%20-%20Rewards/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
@@ -55,6 +64,12 @@
 |---|---------|------------|----------|
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 
 ### strings
 
