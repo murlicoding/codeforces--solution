@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 8 |
+| 17 | 8 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [expression parsing](#expression-parsing) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (15)
-- [math](#math) (3)
+- [math](#math) (4)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
 
@@ -47,6 +47,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 
 ### implementation
 
@@ -75,6 +76,7 @@
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
+| 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/murlicoding/codeforces--solution/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 
 ### sortings
 
